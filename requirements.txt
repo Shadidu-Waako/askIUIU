@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+langchain
+chromadb
+pymupdf
+python-docx
+pypdf
+ollama
+requests
+streamlit
+sentence-transformers
+langchain-huggingface
+langchain_ollama
+langchain_community
+uvicorn
+streamlit
+langchain_chroma
