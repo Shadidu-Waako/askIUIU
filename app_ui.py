@@ -10,7 +10,7 @@ API_URL = "http://127.0.0.1:8000/query"
 st.set_page_config(page_title="IUIU-Support Assistant", page_icon="🤖")
 
 # Load local background image
-background_image_path = "/home/overwatch/projects/iuiu/askIUIU/image/logo.png"  # Change this to your image path
+background_image_path = "./image/logo.png"  # Change this to your image path
 
 # Function to convert image to base64
 def get_base64_of_image(image_path):
